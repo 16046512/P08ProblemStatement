@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProblemStatement</string>
+    <string-array name="spinner">
+        <item>--Select Option--</item>
+        <item>NORTH</item>
+        <item>CENTRAL</item>
+        <item>EAST</item>
+    </string-array>
+</resources>
